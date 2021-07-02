@@ -14,7 +14,6 @@ I'm Abdulrahman M. Al-Majayda a Ux/Ui Designer and Inforamtion Security Studnet 
 - 😊 I'm interested in learning new skills continuously.
 - 🥰 Hobbies : I read books and go to the GYM very often.
 - 🎯 Next Aim : Learning more about Python 🐍
-<br />
 
 #### Programming :
 
@@ -34,7 +33,6 @@ I'm Abdulrahman M. Al-Majayda a Ux/Ui Designer and Inforamtion Security Studnet 
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=itsDaRKSAMA&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<br/>
 
 #### Last Repositories : 
 
