@@ -23,6 +23,10 @@ I'm Abdulrahman M. Al-Majayda a Ux/Ui Designer and Inforamtion Security Studnet 
 
 [![XD Badge](https://img.shields.io/badge/-XD-e84393?style=for-the-badge&labelColor=black&logo=adobexd&logoColor=e84393)](#) [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-0277BD?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=0277BD)](#) [![illustrarot Badge](https://img.shields.io/badge/-Illustrator-E46F50?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=E46F50)](#) [![indesign Badge](https://img.shields.io/badge/-Indesign-f52e61?style=for-the-badge&labelColor=black&logo=adobeindesign&logoColor=f52e61)](#)
 
+#### Tools :
+
+[![Manjaro Badge](https://img.shields.io/badge/-Linux_OS-0277BD?style=for-the-badge&labelColor=black&logo=archlinux&logoColor=0277BD)](#) [![git Badge](https://img.shields.io/badge/-Github-7C258B?style=for-the-badge&labelColor=black&logo=github&logoColor=7C258B)](#) [![VsCode Badge](https://img.shields.io/badge/-VsCode-0277BD?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0277BD)](#) [![Qt Badge](https://img.shields.io/badge/-qt-34B85D?style=for-the-badge&labelColor=black&logo=qt&logoColor=34B85D)](#)
+
 <br />
 
 #### Profile Visits :
@@ -34,10 +38,11 @@ I'm Abdulrahman M. Al-Majayda a Ux/Ui Designer and Inforamtion Security Studnet 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=itsDaRKSAMA&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
+
 #### Last Repositories : 
 
+- [Calories_Calculator](https://github.com/itsDARKSAMA/Calories_Calculator)
 - [dark_spam](https://github.com/itsDARKSAMA/dark_spam)
 - [SpeedTest](https://github.com/itsDARKSAMA/SpeedTest)
 - [youtube-downloader](https://github.com/itsDARKSAMA/youtube-downloader)
 - [BookEvents-HTML_CSS](https://github.com/itsDARKSAMA/BookEvents-HTML_CSS)
-- [SassVsLess](https://github.com/itsDARKSAMA/SassVsLess)
