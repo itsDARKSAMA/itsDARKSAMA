@@ -23,8 +23,8 @@ I'm Abdulrahman M. Al-Majayda a Ux/Ui Designer and Inforamtion Security Studnet 
 
 #### Graphic Design :
 
- [![Figma Badge](https://img.shields.io/badge/-Figma-f52e61?style=for-the-badge&labelColor=black&logo=figma&logoColor=f52e61)](#) [![XD Badge](https://img.shields.io/badge/-XD-e84393?style=for-the-badge&labelColor=black&logo=adobexd&logoColor=e84393)](#) [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-0277BD?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=0277BD)](#) [![illustrarot Badge](https://img.shields.io/badge/-Illustrator-E46F50?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=E46F50)](#) [![indesign Badge](https://img.shields.io/badge/-Indesign-f52e61?style=for-the-badge&labelColor=black&logo=adobeindesign&logoColor=f52e61)](#)
- <br /> [![Inksape Badge](https://img.shields.io/badge/-Inkscape-0277BD?style=for-the-badge&labelColor=black&logo=inkscape&logoColor=0277BD)](#) 
+ [![Figma Badge](https://img.shields.io/badge/-Figma-f52e61?style=for-the-badge&labelColor=black&logo=figma&logoColor=f52e61)](#) [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-0277BD?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=0277BD)](#) [![indesign Badge](https://img.shields.io/badge/-Indesign-f52e61?style=for-the-badge&labelColor=black&logo=adobeindesign&logoColor=f52e61)](#)
+ <br /> [![XD Badge](https://img.shields.io/badge/-XD-e84393?style=for-the-badge&labelColor=black&logo=adobexd&logoColor=e84393)](#)  [![illustrarot Badge](https://img.shields.io/badge/-Illustrator-E46F50?style=for-the-badge&labelColor=black&logo=adobeillustrator&logoColor=E46F50)](#)  [![Inksape Badge](https://img.shields.io/badge/-Inkscape-0277BD?style=for-the-badge&labelColor=black&logo=inkscape&logoColor=0277BD)](#) 
 
 
 
